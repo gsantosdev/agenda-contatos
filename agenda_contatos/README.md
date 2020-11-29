@@ -1,4 +1,4 @@
-# agendacontatos
+# agenda-contatos
 
 Uma aplicação de agenda de contatos feita em flutter.
 
