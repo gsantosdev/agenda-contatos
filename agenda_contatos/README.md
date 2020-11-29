@@ -1,6 +1,6 @@
 # agendacontatos
 
-A new Flutter application.
+Uma aplicação de agenda de contatos feita em flutter.
 
 ## Getting Started
 
