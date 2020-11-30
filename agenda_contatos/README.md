@@ -1,7 +1,3 @@
-# agenda-contatos
-
-Uma aplicação de agenda de contatos feita em flutter.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
